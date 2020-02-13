@@ -19,6 +19,4 @@ Each sentence is passed to a transformer model wherein it generates a fixed size
 
 We evaluated the finetuned BERT embeddings on our downstream tasks and saw gains of 18% in logloss.
 
-####
-![](Bert_finetuning_results.png)
-
+<img src="Bert_finetuning_results.png" width="500" height="300">

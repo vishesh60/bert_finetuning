@@ -15,7 +15,7 @@ The training data consists of 3 columns, with the first two consisting of senten
 
 Each sentence is passed to a transformer model wherein it generates a fixed size embedding for it, and then is passed to a softmax classifier to derive the final label.
 
-#### Evaluation
+## Evaluation
 
 We evaluated the finetuned BERT embeddings on our downstream tasks and saw gains of 18% in logloss.
 

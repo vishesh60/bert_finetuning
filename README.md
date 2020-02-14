@@ -1,4 +1,4 @@
-# Bert Finetuning
+# Text Encoder
 
 Finetuning the BERT model on glance data to get more semantically informative embeddings
 
